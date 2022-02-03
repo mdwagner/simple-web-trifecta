@@ -1,2 +1,2 @@
-# simple-web-trifecta
-Simple website using trifecta of technologies (HTML, Tailwindcss, AlpineJS)
+# web-trifecta-starter
+Starter website using _trifecta_ of technologies (HTML, Tailwindcss, AlpineJS)
